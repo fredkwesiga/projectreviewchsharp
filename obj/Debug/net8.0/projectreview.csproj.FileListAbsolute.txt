@@ -1,0 +1,14 @@
+/Users/fred/Desktop/Learning CSHARP/projectreview/bin/Debug/net8.0/projectreview
+/Users/fred/Desktop/Learning CSHARP/projectreview/bin/Debug/net8.0/projectreview.deps.json
+/Users/fred/Desktop/Learning CSHARP/projectreview/bin/Debug/net8.0/projectreview.runtimeconfig.json
+/Users/fred/Desktop/Learning CSHARP/projectreview/bin/Debug/net8.0/projectreview.dll
+/Users/fred/Desktop/Learning CSHARP/projectreview/bin/Debug/net8.0/projectreview.pdb
+/Users/fred/Desktop/Learning CSHARP/projectreview/obj/Debug/net8.0/projectreview.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fred/Desktop/Learning CSHARP/projectreview/obj/Debug/net8.0/projectreview.AssemblyInfoInputs.cache
+/Users/fred/Desktop/Learning CSHARP/projectreview/obj/Debug/net8.0/projectreview.AssemblyInfo.cs
+/Users/fred/Desktop/Learning CSHARP/projectreview/obj/Debug/net8.0/projectreview.csproj.CoreCompileInputs.cache
+/Users/fred/Desktop/Learning CSHARP/projectreview/obj/Debug/net8.0/projectreview.dll
+/Users/fred/Desktop/Learning CSHARP/projectreview/obj/Debug/net8.0/refint/projectreview.dll
+/Users/fred/Desktop/Learning CSHARP/projectreview/obj/Debug/net8.0/projectreview.pdb
+/Users/fred/Desktop/Learning CSHARP/projectreview/obj/Debug/net8.0/projectreview.genruntimeconfig.cache
+/Users/fred/Desktop/Learning CSHARP/projectreview/obj/Debug/net8.0/ref/projectreview.dll
