@@ -1,0 +1,14 @@
+/Users/fred/Desktop/Learning CSHARP/manipulation/bin/Debug/net8.0/manipulation
+/Users/fred/Desktop/Learning CSHARP/manipulation/bin/Debug/net8.0/manipulation.deps.json
+/Users/fred/Desktop/Learning CSHARP/manipulation/bin/Debug/net8.0/manipulation.runtimeconfig.json
+/Users/fred/Desktop/Learning CSHARP/manipulation/bin/Debug/net8.0/manipulation.dll
+/Users/fred/Desktop/Learning CSHARP/manipulation/bin/Debug/net8.0/manipulation.pdb
+/Users/fred/Desktop/Learning CSHARP/manipulation/obj/Debug/net8.0/manipulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fred/Desktop/Learning CSHARP/manipulation/obj/Debug/net8.0/manipulation.AssemblyInfoInputs.cache
+/Users/fred/Desktop/Learning CSHARP/manipulation/obj/Debug/net8.0/manipulation.AssemblyInfo.cs
+/Users/fred/Desktop/Learning CSHARP/manipulation/obj/Debug/net8.0/manipulation.csproj.CoreCompileInputs.cache
+/Users/fred/Desktop/Learning CSHARP/manipulation/obj/Debug/net8.0/manipulation.dll
+/Users/fred/Desktop/Learning CSHARP/manipulation/obj/Debug/net8.0/refint/manipulation.dll
+/Users/fred/Desktop/Learning CSHARP/manipulation/obj/Debug/net8.0/manipulation.pdb
+/Users/fred/Desktop/Learning CSHARP/manipulation/obj/Debug/net8.0/manipulation.genruntimeconfig.cache
+/Users/fred/Desktop/Learning CSHARP/manipulation/obj/Debug/net8.0/ref/manipulation.dll
