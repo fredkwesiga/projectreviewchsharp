@@ -1,6 +1,6 @@
 ﻿// Perform operations on arrays using helper methods in C#
 
-string[] pallets = { "B14", "A11", "B12", "A13" };
+/*string[] pallets = { "B14", "A11", "B12", "A13" };
 Console.WriteLine("");
 //Array.Sort(pallets);
 //Array.Reverse(pallets);
@@ -51,6 +51,72 @@ foreach( var item in items)
         Console.WriteLine(item + "\t- Error");
     }
 }
+*/
+//Composite Formatting? / Composite formatting uses numbered placeholders within a string.
+string first = "Hello";
+string second = "World";
+string result = string.Format("{0} {1}!", first, second);
+Console.WriteLine(result);
 
+decimal price = 123.45m;
+int discount = 50;
+Console.WriteLine($"Price: {price:C} (Save {discount:C})");
 
+/*decimal price = 67.55m;
+decimal salePrice = 59.99m;
+string yourDiscount = String.Format("You saved {0:C2} off the regular {1:C2} price. ", (price - salePrice), price);
+yourDiscount += $"A discount of {((price - salePrice)/price):P2}!"; //inserted
+Console.WriteLine(yourDiscount);
+*/
+//Display the invoice number using string interpolation
+/*int invoiceNumber = 1201;
+decimal productShares = 25.4568m;
+decimal subtotal = 2750.00m;
+decimal taxPercentage = .15825m;
+decimal total = 3185.19m;
 
+Console.WriteLine($"Invoice Number: {invoiceNumber}");
+Console.WriteLine($" Shares: {productShares:N3} Product");
+Console.WriteLine($"     Sub Total: {subtotal:C}");
+Console.WriteLine($"           Tax: {taxPercentage:P2}");
+Console.WriteLine($"     Total Billed: {total:C}");
+
+string paymentId = "769C";
+string payeeName = "Mr. Stephen Ortega";
+string paymentAmount = "$5,000.00";
+
+var formattedLine = paymentId.PadRight(6);
+formattedLine += payeeName.PadRight(24);
+formattedLine += paymentAmount.PadLeft(10);
+
+Console.WriteLine(formattedLine);
+//
+string message = "Find what is (inside the parentheses)";
+
+int openingPosition = message.IndexOf('(');
+int closingPosition = message.IndexOf(')');
+
+// Console.WriteLine(openingPosition);
+// Console.WriteLine(closingPosition);
+
+int length = closingPosition - openingPosition;
+Console.WriteLine(message.Substring(openingPosition, length));
+*/
+
+// Use the strings indexofany() and LastIndexOf()
+//IndexOfAny() / find the first location of any string and LastIndexOf() //find location of string within another string
+string message = "(What if) there are (more than) one (set of parentheses)?";
+while (true)
+{
+    int openingPosition = message.IndexOf('(');
+    if (openingPosition == -1) break;
+
+    openingPosition += 1;
+    int closingPosition = message.IndexOf(')');
+    int length = closingPosition - openingPosition;
+    Console.WriteLine(message.Substring(openingPosition, length));
+
+    // Note the overload of the Substring to return only the remaining 
+    // unprocessed message:
+    message = message.Substring(closingPosition + 1);
+}

@@ -12,3 +12,4 @@
 /Users/fred/Desktop/Learning CSHARP/manipulation/obj/Debug/net8.0/manipulation.pdb
 /Users/fred/Desktop/Learning CSHARP/manipulation/obj/Debug/net8.0/manipulation.genruntimeconfig.cache
 /Users/fred/Desktop/Learning CSHARP/manipulation/obj/Debug/net8.0/ref/manipulation.dll
+/Users/fred/Desktop/Learning CSHARP/manipulation/obj/Debug/net8.0/manipulation.sourcelink.json
